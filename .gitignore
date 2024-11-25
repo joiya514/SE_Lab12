@@ -1,8 +1,0 @@
-# Dependencies
-node_modules/
-
-# Build outputs (keep out/ for deployment)
-.next/
-
-# Environment files
-.env
